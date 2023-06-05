@@ -37,4 +37,4 @@ GROUP BY DATE_FORMAT(p.payment_date, '%Y-%m')
 ORDER BY c1 DESC  
 LIMIT 1) AS t1);  
 ```
-![alt text](https://github.com/Maxterx10/12-04-SQL/blob/main/12-04-3.png)
+![alt text](https://github.com/Maxterx10/12-04-SQL/blob/main/12-04-3-1.png)
